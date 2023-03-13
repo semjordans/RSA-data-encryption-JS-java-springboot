@@ -1,0 +1,9 @@
+{
+  "data": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "03837a7a1fb6c6b07f6d1a7402d2b1587348d96e0c3d0826b3f6dd8a88ecf1c0",
+    "salt": "6b8c7f2c6c474a0840af9dfc8b4a4f4e"
+  },
+  "hash": "fb1f5d5d0fc5b93486f4c8bde77f0dcf84ef61f3a3c35e7ee520844b686e16cc"
+}
